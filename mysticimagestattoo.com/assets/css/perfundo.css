@@ -127,7 +127,7 @@ RETRIEVED FROM : https://perfundo.oberlehner.net/#perfundo-untarget
   /* [1] */
   margin-top: -1.5em;
   /* [1] */
-  opacity: 0.2;
+  opacity: 1;
   -webkit-transition: opacity 0.2s;
   transition: opacity 0.2s; }
   .perfundo__prev:hover, .perfundo__prev:focus,

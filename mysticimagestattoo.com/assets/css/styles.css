@@ -397,6 +397,7 @@ li .nav-item .dropdown{
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	margin-top: 5px !important;
 }
 .thumbnailPicutre p{
 	margin-bottom: 0;
